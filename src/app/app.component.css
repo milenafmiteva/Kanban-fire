@@ -28,7 +28,7 @@ mat-toolbar > span {
 }
 
 app-new-task {
-    margin-bootom: 30px;
+    margin-bottom: 30px;
 }
 
 .empty-label {
