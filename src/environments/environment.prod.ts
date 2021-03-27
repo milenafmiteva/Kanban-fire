@@ -1,12 +1,12 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyC0_Siv3o_2R5Sw_psp6mNEi0OqYm6innQ",
-    authDomain: "kanban-fire-workshop-c312b.firebaseapp.com",
-    projectId: "kanban-fire-workshop-c312b",
-    storageBucket: "kanban-fire-workshop-c312b.appspot.com",
-    messagingSenderId: "792494729182",
-    appId: "1:792494729182:web:9f53e775eb7702c5949f4f",
-    measurementId: "G-YFP5DH3CG6"
+    apiKey: "AIzaSyC4IB4Fg5F_Ai3kQCau7JXt_4KVVYJLQSk",
+    authDomain: "kanban-a6641.firebaseapp.com",
+    projectId: "kanban-a6641",
+    storageBucket: "kanban-a6641.appspot.com",
+    messagingSenderId: "124706583524",
+    appId: "1:124706583524:web:b795f63143762929a64df1",
+    measurementId: "G-9YNH8DGT2C"
   }
 };
